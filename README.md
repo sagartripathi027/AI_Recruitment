@@ -115,11 +115,10 @@ Suggestions:
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
-**Sagar Tripathi**
-GitHub: https://github.com/sagartripathi027
-
+- Sagar Tripathi  
+- [Pragati Mishra](https://github.com/Pragati-cloud)
 ---
 
 ## ⭐ Support
