@@ -1,4 +1,3 @@
-😘😘😘
 # 🚀 AI_Recruitment
 
 An AI-powered recruitment and mock interview system built using **LLM + RAG (Retrieval-Augmented Generation)**.
