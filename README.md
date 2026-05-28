@@ -20,7 +20,7 @@ It generates **resume-based interview questions**, evaluates answers, and provid
 ## 🏗️ Workflow
 
 ```
-Resume Upload → Text Extraction → Chunking & Embedding → Vector DB (FAISS)
+Resume Upload → Text Extraction → Chunking & Embedding → Local Vector DB
 → User Input (Role, Difficulty, Type)
 → RAG + LLM → Question Generation
 → User Answer → AI Evaluation
@@ -49,7 +49,7 @@ Dynamically adjusts questions based on previous answers.
 
 **Frontend:** HTML, CSS, JavaScript
 **Backend:** FastAPI, Python
-**AI / RAG:** OpenAI / Gemini, LangChain, FAISS
+**AI / RAG:** OpenAI / Gemini, LangChain, Local Vector DB
 
 ---
 
@@ -117,8 +117,12 @@ Suggestions:
 
 ## 👨‍💻 Authors
 
-- Sagar Tripathi  
-- [Pragati Mishra](https://github.com/Pragati-cloud)
+**Sagar Tripathi**
+GitHub: https://github.com/sagartripathi027
+
+**Pragati Mishra**
+GitHub: https://github.com/Pragati-cloud
+
 ---
 
 ## ⭐ Support
